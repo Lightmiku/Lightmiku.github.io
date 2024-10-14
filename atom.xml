@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-10-14T16:06:45.236Z</updated>
+  <updated>2024-10-14T16:13:06.051Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/2024/10/15/%E2%80%9D%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E2%80%9C/"/>
     <id>http://example.com/2024/10/15/%E2%80%9D%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E2%80%9C/</id>
     <published>2024-10-14T16:00:00.000Z</published>
-    <updated>2024-10-14T16:06:45.236Z</updated>
+    <updated>2024-10-14T16:13:06.051Z</updated>
     
-    <content type="html"><![CDATA[<p>##来自Light的第一篇博客<br>这应该是我第一次在这个网站上写博客，拖拖拉拉的好多天才基本上把大体的框架做出来惹<br>这个网站要用来干嘛呢？最初是想做一个小网站帮大家存资源的，不过技术力不够555~<br>所以就打算记录记录日常，记录一下我学习画画的过程叭  很菜的！<br>这第一篇博客，要感谢理理，是ta带着我一步一步搞好的，敲亚撒西 阿里嘎多内<br>就酱  尝试一下附图片的功能  我今天照着表情包画的画（改了一点点hh<br>![猫猫音理女仆]（&#x2F;img&#x2F;10月14日.png）  </p>]]></content>
+    <content type="html"><![CDATA[<h2 id="来自Light的第一篇博客"><a href="#来自Light的第一篇博客" class="headerlink" title="来自Light的第一篇博客"></a>来自Light的第一篇博客</h2><p>这应该是我第一次在这个网站上写博客，拖拖拉拉的好多天才基本上把大体的框架做出来惹<br>这个网站要用来干嘛呢？最初是想做一个小网站帮大家存资源的，不过技术力不够555~<br>所以就打算记录记录日常，记录一下我学习画画的过程叭  很菜的！<br>这第一篇博客，要感谢理理，是ta带着我一步一步搞好的，敲亚撒西 阿里嘎多内<br>就酱  尝试一下附图片的功能  我今天照着表情包画的画（改了一点点hh<br>![猫猫音理女仆]（”E:\blog\themes\butterfly\source\img\10月14日.png”）  </p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;##来自Light的第一篇博客&lt;br&gt;这应该是我第一次在这个网站上写博客，拖拖拉拉的好多天才基本上把大体的框架做出来惹&lt;br&gt;这个网站要用来干嘛呢？最初是想做一个小网站帮大家存资源的，不过技术力不够555~&lt;br&gt;所以就打算记录记录日常，记录一下我学习画画的过程叭  很菜的</summary>
+    <summary type="html">&lt;h2 id=&quot;来自Light的第一篇博客&quot;&gt;&lt;a href=&quot;#来自Light的第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;来自Light的第一篇博客&quot;&gt;&lt;/a&gt;来自Light的第一篇博客&lt;/h2&gt;&lt;p&gt;这应该是我第一次在这个网站上写博客，拖拖拉拉的好多天</summary>
       
     
     
