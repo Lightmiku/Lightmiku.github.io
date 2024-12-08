@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2024-10-28</lastmod>
+    <lastmod>2024-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -86,14 +86,14 @@
   
   <url>
     <loc>http://example.com/categories/%E7%94%BB%E7%94%BB/</loc>
-    <lastmod>2024-10-28</lastmod>
+    <lastmod>2024-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E5%8F%91%E7%99%AB/</loc>
-    <lastmod>2024-10-28</lastmod>
+    <lastmod>2024-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
