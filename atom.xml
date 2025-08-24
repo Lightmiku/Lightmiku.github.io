@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-08-23T14:32:41.267Z</updated>
+  <updated>2025-08-24T03:31:12.808Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我终于给网站修好了！！</title>
+    <link href="http://example.com/2025/08/24/%E6%88%91%E7%BB%88%E4%BA%8E%E7%BB%99%E7%BD%91%E7%AB%99%E4%BF%AE%E5%A5%BD%E4%BA%86%EF%BC%81%EF%BC%81/"/>
+    <id>http://example.com/2025/08/24/%E6%88%91%E7%BB%88%E4%BA%8E%E7%BB%99%E7%BD%91%E7%AB%99%E4%BF%AE%E5%A5%BD%E4%BA%86%EF%BC%81%EF%BC%81/</id>
+    <published>2025-08-24T03:17:26.000Z</published>
+    <updated>2025-08-24T03:31:12.808Z</updated>
+    
+    <content type="html"><![CDATA[<p>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊宝宝~<br>我终于给网站修好了！！！！！！！！！！<br>历时两个月，csdn问了，百度问了，大佬问了最后竟然让ai给我修好了<br>原来是ping不通github.com<br>在C:\Windows\System32\drivers\etc 中的host文件后面加上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">140.82.113.3 github.com</span><br><span class="line">140.82.112.4 api.github.com</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>即可解决问题<br>原因出现在DNS污染上，从ai那学了点浅显的<br>就是DNS服务器返回给我一个错误的ip地址<br>我通过host文件绕过DNS给我的ip地址，直接给我电脑一个准确的ip地址<br>因此我的电脑得到了github.com这个人类可读的域名对应的ip地址<br>所以自然就能ping通了<br>想起来的上次想发博客，原来是因为网站坏了才没发来着。。。。。。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊宝宝~&lt;br&gt;我终于给网站修好了！！！！！！！！！！&lt;br&gt;历时两个月，csdn问了，百度问了，大佬问了最后竟然让ai给我修好了&lt;br&gt;原来是ping不通github.com&lt;br&gt;在C:&#92;Windows&#92;System32&#92;driver</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>遗忘的博客</title>
